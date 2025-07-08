@@ -5,7 +5,8 @@ This program takes in three arguments:
 * Word 2
 
 The contents of the file are scanned line by line and copied over to another file made by the program. If there is no instance of Word 1, then the line is copied over as is. If there is an instance of Word 1, it's replaced with Word 2 then copied over.
-  
+
+## Example  
 Ex Input:
 ```
 ./wswap shrekScript.txt Farquaad "Homeboy David"
